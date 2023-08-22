@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**theberdakh/theberdakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```kotlin
+val theberdakh = developer {
+    about {
+        name = "Berdakh Tlepov"
+        company = Upwork
+    }
+    links {
+        telegram = "@theberdakh"
+        twitter = "@theberdakh"
+    }
+}
+```
