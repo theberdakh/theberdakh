@@ -5,7 +5,7 @@
 val theberdakh = developer {
     about {
         name = "Berdakh Tlepov"
-        company = Upwork
+        company = Sim Sim Co.
     }
     links {
         telegram = "@theberdakh"
