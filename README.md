@@ -4,7 +4,7 @@
 <br/>
 
 You may want to:
-1. See my [portfolio](https://github.com/theberdakh) on Github
+1. See my [portfolio](https://github.com/theberdakh/portfolio) on Github
 2. Download my [apps](https://play.google.com/store/apps/dev?id=5818131630948875246) on Google Play
 3.  Join in [my blog](https://t.me/berdax_tlepov) (in Karakalpak language) on Telegram
 5. [Watch](https://www.youtube.com/c/theberdakh) my tutorial videos on YouTube
