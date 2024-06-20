@@ -6,7 +6,7 @@
 You may want to:
 1. See my [portfolio](https://github.com/theberdakh/portfolio) on Github
 2. Download my [apps](https://play.google.com/store/apps/dev?id=5818131630948875246) on Google Play
-3.  Join in my blog [Berdakh Tlepov](https://t.me/berdakh_tlepov) on Telegram.  
+3.  Join in my blog [Berdakh Tlepov](https://t.me/theberdakh) on Telegram.  
 4. [Watch](https://www.youtube.com/c/theberdakh) my tutorial videos on YouTube
 
 <a href="https://github.com/theberdakh"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=theberdakh&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
