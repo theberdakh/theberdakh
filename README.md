@@ -1,4 +1,4 @@
-[<img align="left" alt="yegor256 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:theberdakh@gmail.com)
+[<img align="left" alt="yegor256 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:theberdakh@proton.me)
 [<img align="left" alt="yegor256 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/theberdakh)
 [<img align="left" alt="yegor256 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/theberdakh)
 <br/>
