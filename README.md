@@ -9,4 +9,6 @@ You may want to:
 3.  Join in my blog [Berdakh Tlepov](https://t.me/theberdakh) on Telegram.  
 4. [Watch](https://www.youtube.com/c/theberdakh) my tutorial videos on YouTube
 
-My coding stats for last week: [Waka](https://wakatime.com/share/@5944173a-69b6-4f6f-97b2-684d6d7ca9f7/6d15e294-2bfb-4fcd-9b29-f8830b5ae878.svg)
+Check my coding stats for
+[last week](https://wakatime.com/share/@5944173a-69b6-4f6f-97b2-684d6d7ca9f7/6d15e294-2bfb-4fcd-9b29-f8830b5ae878.svg),
+[all time](https://wakatime.com/@theberdakh) on Waka
