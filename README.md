@@ -9,4 +9,4 @@ You may want to:
 3.  Join in my blog [Berdakh Tlepov](https://t.me/theberdakh) on Telegram.  
 4. [Watch](https://www.youtube.com/c/theberdakh) my tutorial videos on YouTube
 
-<a href="https://github.com/theberdakh"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=theberdakh&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<figure><embed src="https://wakatime.com/share/@5944173a-69b6-4f6f-97b2-684d6d7ca9f7/9e54540a-3d66-4b38-999f-bc653b16aef1.svg"></embed></figure>
